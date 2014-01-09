@@ -1,0 +1,17 @@
+#container {
+	margin: 0 auto;
+	width: 85%;
+}
+#bold {
+	font-weight: 900;
+	text-align: center;
+	padding-left: 4px;
+}
+
+#welcome {
+	font-weight: 900;
+}
+
+#paragraphs {
+	text-align: center;
+}
